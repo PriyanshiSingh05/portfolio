@@ -1,8 +1,8 @@
 # 🌐 Priyanshi Singh | Portfolio
 
-🚀 Live Website:  
-👉 https://priyanshisingh05.github.io/portfolio/
-
+🚀 Live Website: https://portfolio-henna-two-90.vercel.app/
+    https://priyanshisingh05.github.io/portfolio/
+    
 ---
 
 ## ✨ About The Project
